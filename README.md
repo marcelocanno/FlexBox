@@ -1,2 +1,15 @@
-# FlexBox
-Aulas e exercícios sobre flex box 
+# Conceitos e fundamentos FlexBox
+
+# Displey flex
+
+# Flex direction
+
+# Wrap
+
+# Flex row
+
+# Justify
+
+# Align
+
+# Content
